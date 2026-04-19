@@ -1,4 +1,4 @@
-# PBR Lookdev v4.1.0
+# PBR Lookdev v4.2.1
 
 A layered PBR material system for Blender 4.2+
 
@@ -26,18 +26,33 @@ A layered PBR material system for Blender 4.2+
 * Compact mode — hides advanced groups (Coat, Sheen, Thin Film)
 * Detail view toggle — streamlines the UI
 * Collapse All button — clears all expanded sections instantly
-* Works in both Shader Editor N-panel and Viewport N-panel
 
 ## Location
 
-Shader Editor > N-Panel > PBR Lookdev
-View3D > N-Panel > PBR Lookdev
+* Shader Editor > N-Panel > PBR Lookdev
+* View3D > N-Panel > PBR Lookdev
+* Properties > Material > PBR Lookdev
+
+## Requirements
+
+Blender 4.2 or newer
+
+## Installation
+
+1. Download the latest `.zip` from the [Releases](../../releases) page
+2. In Blender: **Edit → Preferences → Add-ons → Install**
+3. Select the downloaded `.zip`
+4. Enable **PBR Lookdev** in the list
+
+## Bug Reports
+
+Found a bug? Open an issue on the [Issues](../../issues) page. Please include your Blender version and a short description of what went wrong.
 
 ## License
 
-This add-on is sold under a Commercial License.
+This add-on is free and open-source software licensed under the
+GNU General Public License v3.0 or later (GPL-3.0-or-later).
 See LICENSE.txt for full terms.
-Redistribution or sharing of this add-on is strictly prohibited.
 
 ## Author
 
